@@ -1,0 +1,2 @@
+module JeopardyHelper
+end
